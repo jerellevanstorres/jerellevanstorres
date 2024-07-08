@@ -13,7 +13,7 @@
 [<img align="left" alt="JerellEvansTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/
+[youtube]: 
 [linkedin]: https://linkedin.com/in/jerell-evans-torres-4807a8101
 
 
