@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jerell! 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- Active Directory Homelab
+- Windows 10 Deployment
 - Virtual Network Setup Lab
 - AD Office 365 Intergration Lab
 
