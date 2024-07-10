@@ -9,11 +9,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JerellEvansTorres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JerellEvansTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[youtube]: 
 [linkedin]: https://linkedin.com/in/jerell-evans-torres-4807a8101
-
-
