@@ -1,11 +1,10 @@
 <h1>Hi, I'm Jerell! 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- Active Directory Homelab 
+- Active Directory Homelab
+- Virtual Network Setup Lab
+- AD Office 365 Intergration Lab
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- Tutorial Active Directory Home Lab
 
 <h2> 🤳 Connect with me:</h2>
 
