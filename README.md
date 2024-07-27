@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jerell! 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- Windows 10 Deployment
-- Virtual Network Setup Lab
+- Application Deployment
+- ITSM and Ticketing System
 - AD Office 365 Intergration Lab
 
 
